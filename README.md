@@ -1,3 +1,7 @@
+---
+title: Kia Ora
+---
+
 ## Kia Ora!
 Hello and welcome. "Kia Ora" is the warm and welcoming greeting of the indigenous Māori people of Aotearoa (New Zealand), where it is used across cultures and people groups as a replacement for "Hi!", whilst conveying a wish for good health.
 
