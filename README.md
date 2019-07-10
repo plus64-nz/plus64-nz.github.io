@@ -1,8 +1,6 @@
 ---
 title: Kia Ora
 permalink: /index.html
-description: Kia Ora +64
-site.title: plus64.nz
 ---
 
 ## Kia Ora!
