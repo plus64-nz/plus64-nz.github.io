@@ -1,5 +1,6 @@
 ---
 title: Kia Ora
+permalink: /index.html
 ---
 
 ## Kia Ora!
