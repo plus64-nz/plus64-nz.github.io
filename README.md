@@ -3,10 +3,10 @@ title: Kia Ora
 permalink: /index.html
 ---
 
+<img src="https://user-images.githubusercontent.com/5699127/60942279-2e307580-a336-11e9-9feb-7dba84ac8d79.png" height="50"> 
 ## Kia Ora!
 Hello and welcome. "Kia Ora" is the warm and welcoming greeting of the indigenous Māori people of Aotearoa (New Zealand), where it is used across cultures and people groups as a replacement for "Hi!", whilst conveying a wish for good health.
 
-<img src="https://user-images.githubusercontent.com/5699127/60942279-2e307580-a336-11e9-9feb-7dba84ac8d79.png" height="20">
 ## What is plus64.nz?
 It is an initiative to invent a brand new architecture for voice-first communications, that is community owned, open source and cloud native. We aim to hunt, gather, enhance, supplement, integrate, test and deploy the best-of-breed open source voice communications components to create a new and open way forward for voice in the cloud. We aim to do this with an approach that draws from the best practices of open source and agile software development.
 
