@@ -1,6 +1,7 @@
 ---
 title: Kia Ora
 permalink: /index.html
+description: Kia Ora +64
 ---
 
 ## Kia Ora!
