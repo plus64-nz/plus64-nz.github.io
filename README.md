@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Kia Ora!
+Hello and welcome. "Kia Ora" is the warm and welcoming greeting of the indigenous Māori people of Aotearoa (New Zealand), where it is used across cultures and people groups as a replacement for "Hi!", whilst conveying a wish for good health.
 
-You can use the [editor on GitHub](https://github.com/plus64-nz/plus64-nz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is plus64.nz?
+It is an initiative to invent a brand new architecture for voice-first communications, that is community owned, open source and cloud native. We aim to hunt, gather, enhance, supplement, integrate, test and deploy the best-of-breed open source voice communications components to create a new and open way forward for voice in the cloud. We aim to do this with an approach that draws from the best practices of open source and agile software development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is the point?
+There is a disparity between high cost business communication - based on on-premises or hosted PBX - and the practically free multimedia communication offered to private users through social platforms.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plus64-nz/plus64-nz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Why the name plus64.nz?
+:new_zealand: Aotearoa NZ - the land of the long white cloud, and the place of origination of this project. It has the international dialling code +64. So plus64.nz a nice, short and catchy domain name that references good ol' telephone dialling AND a cloud.
